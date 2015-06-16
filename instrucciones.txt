@@ -1,5 +1,12 @@
 cd C:/xampp/htdocs
 
+ls -la ->lista las carpetas
 git init ->Inicia repositorio de GIT
 
 git status ->Revisa el estado actual de tu reporsitorio
+
+git add -A  ->agregar todos los archivos
+git commit -m "message"
+-> haces commit y dejas mensaje
+
+gitk   -> abrir la interfaz grafica 
