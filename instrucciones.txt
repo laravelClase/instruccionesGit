@@ -12,5 +12,9 @@ git commit -m "message"
 gitk   -> abrir la interfaz grafica 
 
 
-git remote add origin https://github.com/laravelClase/instruccionesGit.git
-git push -u origin master
+//git remote add origin https://github.com/laravelClase/instruccionesGit.git
+//git push -u origin master   ->lo hizo ezequiel
+
+git clone https://github.com/laravelClase/instruccionesGit.git
+
+git pull ->traerte los cambios del repositorio
