@@ -10,3 +10,7 @@ git commit -m "message"
 -> haces commit y dejas mensaje
 
 gitk   -> abrir la interfaz grafica 
+
+
+git remote add origin https://github.com/laravelClase/instruccionesGit.git
+git push -u origin master
