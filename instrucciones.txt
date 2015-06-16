@@ -1,0 +1,5 @@
+cd C:/xampp/htdocs
+
+git init ->Inicia repositorio de GIT
+
+git status ->Revisa el estado actual de tu reporsitorio
